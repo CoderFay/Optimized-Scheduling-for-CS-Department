@@ -1,7 +1,5 @@
 # Optimized-Scheduling-for-CS-Department
 
-# Optimized Scheduling for CS Department
-
 ## Introduction
 This project aims to design and implement an optimized schedule for the Computer Science department for the upcoming semester. The focus is on efficiently allocating lectures to timeslots while preventing conflicts, and recognizing the critical role of effective scheduling in enhancing the academic experience for both students and faculty.
 
